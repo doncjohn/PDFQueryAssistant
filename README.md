@@ -1,8 +1,8 @@
-## FAST API Machine Learning Web Application
+# PDF Query Assistant
 
--  This application is a machine learning application that used to identify the phishing and legitimate site.
+- Harness the power of OpenAI to interrogate PDF documents effectively. This api is designed to parse and respond to user queries, extracting relevant information from PDFs.
 
-- Before running the project, you must have the XGBoostClassifier.pickle.dat file in the project directory.
+- Before running the project, you must have the model file in the project directory.
 
 ✓ To download the libraries used by the project, use
 ```
